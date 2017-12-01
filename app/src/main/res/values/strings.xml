@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="no_products">No Products are added,   Add new one by pressing the add button below</string>
+    <string name="quantity">quantity</string>
+    <string name="plus">+</string>
+    <string name="mius">-</string>
+    <string name="_0">0</string>
+    <string name="add_price">add price</string>
+    <string name="add_product_name">add product name</string>
+    <string name="sale">sale</string>
+</resources>
